@@ -3,3 +3,17 @@
 ################################################################################
 
 /.vs
+/Plugin.Sample.AdventureWorks/bin/Debug/net471
+/Plugin.Sample.AdventureWorks/obj
+/Plugin.Sample.Habitat/bin/Debug/net471
+/Plugin.Sample.Habitat/obj
+/Plugin.Sample.Payments.Braintree/bin/Debug/net471
+/Plugin.Sample.Payments.Braintree/obj
+/Sitecore.Commerce.Engine/bin/Debug/net471
+/Sitecore.Commerce.Engine/obj
+/Sitecore.Commerce.Plugin.EnvironmentProxy/bin/Debug/net471
+/Sitecore.Commerce.Plugin.EnvironmentProxy/obj
+/Sitecore.Commerce.Plugin.RJSample/bin/Debug/net471
+/Sitecore.Commerce.Plugin.RJSample/obj
+/Sitecore.Commerce.ServiceProxy/bin
+/Sitecore.Commerce.ServiceProxy/obj
